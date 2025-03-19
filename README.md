@@ -37,11 +37,11 @@
 
 ## 🔥 Featured Projects
 
-1️⃣ AWS Cost Optimizer & Predictor
+### 1️⃣ AWS Cost Optimizer & Predictor
 - Description: A tool to predict and optimize AWS costs using AWS Free Tier services.
 - Tech Stack: AWS Lambda, DynamoDB, API Gateway, CloudWatch
 - GitHub: 🔗 [Repository](https://github.com/amitkrsharma03/AWS-Cost-Analyzer)
-2️⃣ Real-time Face Recognition & Annotation (Final Year ML Project)
+### 2️⃣ Real-time Face Recognition & Annotation (Final Year ML Project)
 - Description: Recognizes a person in real-time and annotates them as "Authorized" or "Unauthorized."
 - Tech Stack: AWS Rekognition, Flask, OpenCV
 - GitHub: 🔗 [Repository](https://github.com/amitkrsharma03/AWS-Cost-Analyzer)
